@@ -8,7 +8,7 @@ public class UserDefined {
         {
             throw new UnsupportedOperationException("Exception");
         }
-        int c = n/d;
+        double c = n/d;
         System.out.println("Result = " + c);
     }
     public static void main(String[] args) {
